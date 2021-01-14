@@ -1,0 +1,129 @@
+@media screen and (min-width:4000px){
+    .path img{
+        display: none;
+    }
+}
+@media screen and (min-width:2100px){
+    .path img{
+        left: 45%;
+    }
+}
+@media screen and (max-width:1199px){
+    .header-img{
+        display: none;
+    }
+    .header-img-col{
+        opacity: 1;
+    }
+}
+@media screen and (max-width:991px){
+    .path{
+        display: none;
+    }
+    .header-heading{
+        font-size: 3.5rem;
+    }
+    .header-para{
+        font-size: 2rem;
+    }
+    .testimonials-text{
+        font-size: 2.5rem;
+        width: 80%;
+    }
+    .heading-title{
+        width: 90%;
+        font-size: 2.5rem;
+    }
+    #services-2-section .row{
+        margin-top: 5rem;
+    }
+    .card-img img{
+        margin-top: 0rem;
+    }
+    .card-img2 img{
+        margin-top: 0rem;
+    }
+    .space-nav{
+        margin-top: 1rem;
+        margin-left: 1rem !important;
+    }
+    .active .nav-link{
+        color: #00486E;
+    }
+    .active .nav-link::after{
+        width: 0;
+    }
+    .footer-para{
+        width: 60%;
+    }
+    .path-3 img{
+        display: none;
+    }
+}
+@media screen and (max-width:767px){
+    .header-content{
+        margin-top: 5rem;
+    }
+    .heading-title{
+        width: 100%;
+    }
+    .service-row-2{
+        margin-top: 4rem !important;
+    }
+    .footer-para{
+        width: 80%;
+    }
+}
+@media screen and (max-width:575px){
+    .testimonials-text{
+        font-size: 2.1rem;
+        width: 80%;
+    }
+    .footer-sub-heading{
+        margin-top: 3rem;
+        margin-bottom: 2rem;
+    }
+    .footer-para{
+        margin: 2rem auto;
+    }
+    .heading-title{
+        font-size: 2.2rem;
+    }
+    #services-section{
+        padding: 5rem 0 !important;
+    }
+    #testimonial-section{
+        padding: 5rem 0;
+    }
+    #services-2-section{
+        padding: 5rem 0;
+    }
+    footer{
+        padding: 5rem 0 2rem 0;
+    }
+    #premium-section{
+        padding: 5rem 0;
+    }
+    #premium-section h2.heading{
+        font-size: 2.2rem !important;
+    }
+    #premium-section p.heading{
+        font-size: 1.7rem;
+        margin: 0;
+    }
+    .testen-heading{
+        font-size: 1.6rem;
+    }
+    #studyly-fur-lehrer-section{
+        padding:5rem 0 5rem 0;
+    }
+    #testen-section{
+        padding:5rem 0;
+    }
+    #events-section{
+        padding: 5rem 0;
+    }
+    #carousel-section{
+        padding: 5rem 0;
+    }
+}
