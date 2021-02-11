@@ -127,3 +127,26 @@
         padding: 5rem 0;
     }
 }
+
+
+/* Container Responsive */
+@media screen and (min-width: 1400px) {
+  .container {
+    max-width: 1320px !important;
+  }
+}
+@media screen and (min-width: 1600px) {
+  .container {
+    max-width: 1500px !important;
+  }
+}
+@media screen and (min-width: 1800px) {
+  .container {
+    max-width: 1680px !important;
+  }
+}
+@media screen and (min-width: 2000px) {
+  .container {
+    max-width: 1880px !important;
+  }
+}
